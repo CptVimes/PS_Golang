@@ -8,5 +8,5 @@ func main() {
 	const RUB float32 = 25548.5
 	fmt.Println("USD in EUR", USD*0.86)
 	fmt.Println("USD in RUB", USD*80.50)
-	fmt.Println("EUR in RUB", USD*EUR)
+	fmt.Println("EUR in RUB", USD*EUR*93, 81)
 }
